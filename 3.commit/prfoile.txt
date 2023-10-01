@@ -1,2 +1,3 @@
 email : jeonguk@naver.com
 gitID : jeonguk29
+nick name : woogie
